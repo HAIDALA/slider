@@ -23,7 +23,7 @@
     padding: 0;
     border: none;
     background: none;
-    left: 20%;
+    left: 6%;
     cursor: pointer;
 }
 
@@ -33,7 +33,7 @@
     padding: 0;
     border: none;
     background: none;
-    right: 20%;
+    right: 6%;
     cursor: pointer;
 }
 
@@ -67,7 +67,7 @@ body {
   
   .scroll-down {
     position: absolute;
-    bottom: 30px;
+    bottom: 200px;
     left: 50%;
     margin-left: -16px;
     display: block;
